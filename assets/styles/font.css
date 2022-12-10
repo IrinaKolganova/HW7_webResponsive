@@ -1,0 +1,53 @@
+.font0 {
+    font-family: "Libre Franklin", arial, sans-serif;
+    font-weight: lighter;
+    text-decoration: none;
+    color: #666;
+    font-size: 0.675vw;
+  }
+  .font1 {
+    font-family: "Libre Franklin", arial, sans-serif;
+    font-weight: lighter;
+    font-size: 0.785vw;
+  }
+  .font11 {
+    font-family: "Libre Franklin", arial, sans-serif;
+    color: black;
+    font-weight: lighter;
+    font-size: 0.5vw;}
+
+  .font2 {
+    font-family: "Tenor Sans", times, sans-serif;
+    text-transform:uppercase;
+    font-size: 2vw;
+  }
+  .font22 {
+    font-family: "Tenor Sans", times, sans-serif;
+    font-weight: lighter;
+    text-transform:uppercase;
+    font-size: 1.5vw;}
+    .font23 {
+        font-family: "Tenor Sans", times, sans-serif;
+        font-weight: lighter;
+        text-transform:uppercase;
+        font-size: 1.2vw;}
+  .font3 {
+    font-family: "Source Serif Pro", times, serif;
+    color: #666;
+    font-size: 1.25vw;
+  }
+
+  .font4 {
+    font-family: "Libre Franklin", arial, sans-serif;
+    font-weight: bolder;
+    font-size: 0.625em;
+  }
+  .fontcolor1 {
+    color: #999;
+  }
+  .fontcolor2 {
+    color: #666;
+  }
+  .fontcolor3 {
+    color: #fff;
+  }

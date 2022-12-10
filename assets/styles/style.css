@@ -1,0 +1,130 @@
+  .logo{width: 10%;}
+  .logo_1 {
+    padding-top: 20px;
+    padding-left: 8vw;
+    padding-bottom: 12px;
+    max-width: 100%;
+  }
+  .head1{padding-top: 20px;}
+  header {
+    display: grid;
+    grid-template-columns: 5fr 1fr 1fr 1fr;
+  }
+  .line {
+    width: 100%;
+    margin-bottom: 45px;
+  }
+  main {
+    margin-left: 8vw;
+    margin-right: 8vw;
+  }
+  .Section1 {
+    display: grid;
+    grid-template-columns: 60% 40%;
+    grid-gap: 10px;
+  }
+  .pic1 {
+    grid-row: 1/5;
+    grid-column: 1/2;
+    width: 100%;
+  }
+  .pic1_1{max-width: 100%;}
+  .main1_1 {
+    width: fit-content;
+  }
+  .section2 {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    margin-top: 40px;
+    grid-gap: 10px;
+  }
+  .section3 {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    margin-top: 40px;
+    grid-gap: 10px;
+    padding-right: 10px;
+  }
+  .divbut {
+    display: grid;
+  }
+  .button {
+    border: 1px #666 solid;
+    background-color: white;
+    width: 10vw;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 8vw;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    justify-self: center;
+    cursor: pointer;
+  }
+  button:hover {
+    border: 3px black solid;
+    box-shadow: 25px 23px 26px -9px rgba(43, 43, 43, 0.14);
+  }  
+  .posts {
+    margin-top: 70px;
+  }
+  .section4 {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin-top: 20px;
+    margin-bottom: 70px;
+    grid-gap: 10px;
+    
+  }
+  .sec_1{width: 100%;}
+    .sec_1_1{max-width: 100%;}
+    .logo_bl{width: 100%;}
+  .logo_bl_1 {
+    
+    max-width: 100%;
+  }
+  footer {
+    background-color: #141414;
+    padding-left: 8vw;
+    padding-right: 8vw;
+    padding-top: 70px;
+  }
+  .footer1 {
+    display: grid;
+    grid-template-columns: 1fr 2fr 5fr;
+    padding-top: 50px;
+    padding-bottom: 40px;
+  }
+  .footer2 {
+    display: grid;
+    grid-template-columns: 16% 16% 16% 16%;
+    
+  }
+  .CATEGORIES{
+    padding-top: 40px;
+  }
+  .email {
+    border: 1px white solid;
+    background-color: white;
+    text-align: center;
+    padding-top: 10px;
+  }
+  .send {
+    border: 1px #000000 solid;
+    background-color: #000000;
+    text-align: center;
+    padding-top: 5px;
+    padding-left: 5px;
+  }
+  button:hover {
+    border: 3px white solid; 
+    cursor: pointer;
+      }
+  .adress {
+    display: grid;
+    grid-template-columns: 10vw 5vw;
+    justify-content: end;
+  }
+  .footer3{display: grid;
+    grid-template-columns: 16% 16% 16% ;
+padding-bottom: 100px;}
